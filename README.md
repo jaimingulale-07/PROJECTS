@@ -59,7 +59,7 @@ Here’s what’s spinning in the playground right now:
 
 ## 🌐 Let’s Chat  
 [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/jaimingulale-07)  
-📧 Email: jaimin.gulale@example.com  
+📧 Email: jaiminkumargulale@gmail.com  
 *Hit me up if you’re into FPGA, simulations, or just geeky stuff!*
 
 ---
