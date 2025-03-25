@@ -16,8 +16,7 @@ Here’s what’s spinning in the playground right now:
 📄 **[Report: fpga_report_22bec044.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/fpga_report_22bec044.pdf)**  
 - **What It’s About**: Squeezing images down to size using FPGA hardware—fast, efficient, awesome.  
 - **Tech Stack**: FPGA (Verilog/VHDL), Quartus.  
-- **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Check out the report for the full scoop on circuits and compression!*
+- **Status**: ![Status](https://img.shields.io/badge/status-Completed-blue)
 
 ---
 
@@ -25,8 +24,7 @@ Here’s what’s spinning in the playground right now:
 📄 **[Report: IP_FINAL (2).pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/IP_FINAL%20(2).pdf)**  
 - **What It’s About**: Geolocating drone-captured images using MATLAB-based template matching.  
 - **Tech Stack**: MATLAB GUI, Cross-correlation, Haversine Formula.  
-- **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Discover how template matching accurately determines image coordinates!*
+- **Status**: ![Status](https://img.shields.io/badge/status-Completed-blue)
 
 ---
 
@@ -34,8 +32,7 @@ Here’s what’s spinning in the playground right now:
 🎥 **[Video: MnM simulation video (1).mp4](https://github.com/jaimingulale-07/PROJECTS/blob/main/MnM%20simulation%20video%20(1).mp4)**  
 - **What It’s About**: A visual demo of a simulation—think moving parts, cool visuals, and tech in action.  
 - **Tech Stack**: MATLAB.  
-- **Status**: [![Status](https://img.shields.io/badge/status-Demo%20Ready-brightgreen)]()  
-*Download the MP4 to see it run—pairs with the MnM assignment below!*
+- **Status**: ![Status](https://img.shields.io/badge/status-Demo%20Ready-brightgreen)
 
 ---
 
@@ -43,8 +40,7 @@ Here’s what’s spinning in the playground right now:
 📄 **[Report: SA -DLD.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/SA%20-DLD.pdf)**  
 - **What It’s About**: A deep dive into Digital Logic Design—gates, circuits, and all that binary goodness.  
 - **Tech Stack**: Verilog, Logisim.  
-- **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Flip through the PDF for logic diagrams and solutions!*
+- **Status**: ![Status](https://img.shields.io/badge/status-Completed-blue)
 
 ---
 
@@ -52,8 +48,15 @@ Here’s what’s spinning in the playground right now:
 📄 **[Report: mnm special assignment.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/mnm%20special%20assignment.pdf)**  
 - **What It’s About**: The brains behind the MnM simulation—details, theory, and results.  
 - **Tech Stack**: Python, MATLAB.  
-- **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Tied to the video above—read this to get the full story!*
+- **Status**: ![Status](https://img.shields.io/badge/status-Completed-blue)
+
+---
+
+### 6. Shift-Left Testing Research Paper  
+📄 **[Report: pse (5).pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/pse%20(5).pdf)**  
+- **What It’s About**: Exploring shift-left testing as a strategy to integrate testing earlier in the development cycle for better quality and efficiency.  
+- **Tech Stack**: Software Development, DevOps, Agile.  
+- **Status**: ![Status](https://img.shields.io/badge/status-Completed-blue)
 
 ---
 
@@ -73,7 +76,7 @@ Here’s what’s spinning in the playground right now:
 ---
 
 ## 🌐 Let’s Chat  
-[<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/jaimingulale-07)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaimingulale-07)  
 📧 Email: jaiminkumargulale@gmail.com  
 *Hit me up if you’re into FPGA, simulations, or just geeky stuff!*
 
