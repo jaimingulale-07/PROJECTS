@@ -20,28 +20,45 @@ Here’s what’s spinning in the playground right now:
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
 *Explore the detailed CA assignment report and emulator design overview.*  
 
-### 2. FPGA Image Compression  
+---
+
+### 2. Shift Testing Project  
+📄 **[Shift Testing Report](https://github.com/jaimingulale-07/PROJECTS/blob/main/Shift_Testing_Report.pdf)**  
+- **What It’s About**: Evaluating the performance and accuracy of shift operations (left shift, right shift, arithmetic and logical shifts) in hardware design and simulation.  
+- **Tech Stack**: Verilog, MATLAB, Simulation Tools  
+- **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
+*Explore the report for test cases, results, and observations.*  
+
+---
+
+### 3. FPGA Image Compression  
 📄 **[Report: fpga_report_22bec044.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/fpga_report_22bec044.pdf)**  
 - **What It’s About**: Squeezing images down to size using FPGA hardware—fast, efficient, awesome.  
 - **Tech Stack**: FPGA (Verilog/VHDL), Quartus (if applicable)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
 *Check out the report for the full scoop on circuits and compression!*  
 
-### 3. MnM Simulation Demo  
+---
+
+### 4. MnM Simulation Demo  
 🎥 **[Video: MnM simulation video (1).mp4](https://github.com/jaimingulale-07/PROJECTS/blob/main/MnM%20simulation%20video%20(1).mp4)**  
 - **What It’s About**: A visual demo of a simulation—think moving parts, cool visuals, and tech in action.  
 - **Tech Stack**: MATLAB, Python (if applicable)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Demo%20Ready-brightgreen)]()  
 *Download the MP4 to see it run—pairs with the MnM assignment below!*  
 
-### 4. Digital Logic Design Assignment  
+---
+
+### 5. Digital Logic Design Assignment  
 📄 **[Report: SA -DLD.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/SA%20-DLD.pdf)**  
 - **What It’s About**: A deep dive into Digital Logic Design—gates, circuits, and all that binary goodness.  
 - **Tech Stack**: Logisim, Verilog (if applicable)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
 *Flip through the PDF for logic diagrams and solutions!*  
 
-### 5. MnM Special Assignment  
+---
+
+### 6. MnM Special Assignment  
 📄 **[Report: mnm special assignment.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/mnm%20special%20assignment.pdf)**  
 - **What It’s About**: The brains behind the MnM simulation—details, theory, and results.  
 - **Tech Stack**: Python, MATLAB (if applicable)  
@@ -80,4 +97,4 @@ Every project here is a puzzle I’ve pieced together—some with code, some wit
 ---
 
 ![Inspiration](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-**“Build it, test it, share it—that’s the game.”**  
+**“Build it, test it, share it—that’s the game.”**
