@@ -22,7 +22,16 @@ Here’s what’s spinning in the playground right now:
 
 ---
 
-### 2. Shift Testing Project  
+### 2. IP_FINAL Image Processing Project  
+📄 **[Report: IP_FINAL (2).pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/IP_FINAL%20(2).pdf)**  
+- **What It’s About**: Advanced image processing techniques implemented using MATLAB and Python, focusing on image enhancement, noise reduction, and feature extraction.  
+- **Tech Stack**: MATLAB, Python (NumPy, OpenCV)  
+- **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
+*Dive into the report for the results and observations.*  
+
+---
+
+### 3. Shift Testing Project  
 📄 **[Shift Testing Report](https://github.com/jaimingulale-07/PROJECTS/blob/main/Shift_Testing_Report.pdf)**  
 - **What It’s About**: Evaluating the performance and accuracy of shift operations (left shift, right shift, arithmetic and logical shifts) in hardware design and simulation.  
 - **Tech Stack**: Verilog, MATLAB, Simulation Tools  
@@ -31,7 +40,7 @@ Here’s what’s spinning in the playground right now:
 
 ---
 
-### 3. FPGA Image Compression  
+### 4. FPGA Image Compression  
 📄 **[Report: fpga_report_22bec044.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/fpga_report_22bec044.pdf)**  
 - **What It’s About**: Squeezing images down to size using FPGA hardware—fast, efficient, awesome.  
 - **Tech Stack**: FPGA (Verilog/VHDL), Quartus (if applicable)  
@@ -40,7 +49,7 @@ Here’s what’s spinning in the playground right now:
 
 ---
 
-### 4. MnM Simulation Demo  
+### 5. MnM Simulation Demo  
 🎥 **[Video: MnM simulation video (1).mp4](https://github.com/jaimingulale-07/PROJECTS/blob/main/MnM%20simulation%20video%20(1).mp4)**  
 - **What It’s About**: A visual demo of a simulation—think moving parts, cool visuals, and tech in action.  
 - **Tech Stack**: MATLAB, Python (if applicable)  
@@ -49,7 +58,7 @@ Here’s what’s spinning in the playground right now:
 
 ---
 
-### 5. Digital Logic Design Assignment  
+### 6. Digital Logic Design Assignment  
 📄 **[Report: SA -DLD.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/SA%20-DLD.pdf)**  
 - **What It’s About**: A deep dive into Digital Logic Design—gates, circuits, and all that binary goodness.  
 - **Tech Stack**: Logisim, Verilog (if applicable)  
@@ -58,7 +67,7 @@ Here’s what’s spinning in the playground right now:
 
 ---
 
-### 6. MnM Special Assignment  
+### 7. MnM Special Assignment  
 📄 **[Report: mnm special assignment.pdf](https://github.com/jaimingulale-07/PROJECTS/blob/main/mnm%20special%20assignment.pdf)**  
 - **What It’s About**: The brains behind the MnM simulation—details, theory, and results.  
 - **Tech Stack**: Python, MATLAB (if applicable)  
