@@ -18,7 +18,6 @@ Here’s what’s spinning in the playground right now:
 - **What It’s About**: A web-based RISC-V emulator designed to simulate the execution of RISC-V assembly instructions, showcasing ECE core concepts like instruction cycles, register updates, and memory management.  
 - **Tech Stack**: ASP.NET Core (C#), SQLite, RISC-V ISA, VLSI concepts  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Explore the detailed CA assignment report and emulator design overview.*  
 
 ---
 
@@ -27,7 +26,6 @@ Here’s what’s spinning in the playground right now:
 - **What It’s About**: Advanced image processing techniques implemented using MATLAB and Python, focusing on image enhancement, noise reduction, and feature extraction.  
 - **Tech Stack**: MATLAB, Python (NumPy, OpenCV)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Dive into the report for the results and observations.*  
 
 ---
 
@@ -36,7 +34,6 @@ Here’s what’s spinning in the playground right now:
 - **What It’s About**: Evaluating the performance and accuracy of shift operations (left shift, right shift, arithmetic and logical shifts) in hardware design and simulation.  
 - **Tech Stack**: Verilog, MATLAB, Simulation Tools  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Explore the report for test cases, results, and observations.*  
 
 ---
 
@@ -45,7 +42,6 @@ Here’s what’s spinning in the playground right now:
 - **What It’s About**: Squeezing images down to size using FPGA hardware—fast, efficient, awesome.  
 - **Tech Stack**: FPGA (Verilog/VHDL), Quartus (if applicable)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Check out the report for the full scoop on circuits and compression!*  
 
 ---
 
@@ -54,7 +50,6 @@ Here’s what’s spinning in the playground right now:
 - **What It’s About**: A visual demo of a simulation—think moving parts, cool visuals, and tech in action.  
 - **Tech Stack**: MATLAB, Python (if applicable)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Demo%20Ready-brightgreen)]()  
-*Download the MP4 to see it run—pairs with the MnM assignment below!*  
 
 ---
 
@@ -63,7 +58,6 @@ Here’s what’s spinning in the playground right now:
 - **What It’s About**: A deep dive into Digital Logic Design—gates, circuits, and all that binary goodness.  
 - **Tech Stack**: Logisim, Verilog (if applicable)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Flip through the PDF for logic diagrams and solutions!*  
 
 ---
 
@@ -72,7 +66,25 @@ Here’s what’s spinning in the playground right now:
 - **What It’s About**: The brains behind the MnM simulation—details, theory, and results.  
 - **Tech Stack**: Python, MATLAB (if applicable)  
 - **Status**: [![Status](https://img.shields.io/badge/status-Completed-blue)]()  
-*Tied to the video above—read this to get the full story!*  
+
+---
+
+### 8. Voltage Sense Amplifier (LTspice Design)  
+📄 **[Schematic: voltage_sense_amplifier.asc](https://github.com/jaimingulale-07/PROJECTS/blob/main/voltage_sense_amplifier.asc)**  
+🖼️ **[Circuit Image](https://github.com/jaimingulale-07/PROJECTS/blob/main/263d52f2-d812-44db-b12f-f698d1a84475.png)**  
+- **What It’s About**: A sense amplifier built using PMOS and NMOS transistors in LTspice, designed for detecting small differential voltage changes in memory circuits or analog comparators.  
+- **Tech Stack**: LTspice (Analog Simulation)  
+- **Status**: [![Status](https://img.shields.io/badge/status-Simulated-brightgreen)]()  
+
+#### 🖥️ Circuit Preview  
+![Voltage Sense Amplifier](https://github.com/jaimingulale-07/PROJECTS/blob/main/263d52f2-d812-44db-b12f-f698d1a84475.png)
+
+#### 🛠️ Simulation Setup  
+- DC Sweep: `.dc V1 0 5 0.5`  
+- Inputs: `V2 = 1.8V`, `V3 = 1.8V`  
+- Output: Cross-coupled NMOS/PMOS structure behavior
+
+*Open the `.asc` file in LTspice, press `F9`, and analyze how the amplifier reacts to differential inputs!*
 
 ---
 
@@ -82,7 +94,6 @@ Here’s what’s spinning in the playground right now:
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)  
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)  
-*These tools bring my projects to life—more to be added as I play!*  
 
 ---
 
@@ -106,4 +117,4 @@ Every project here is a puzzle I’ve pieced together—some with code, some wit
 ---
 
 ![Inspiration](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-**“Build it, test it, share it—that’s the game.”**
+**“Build it, test it, share it—that’s the game.”**  
